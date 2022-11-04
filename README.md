@@ -2,6 +2,7 @@
 Code implementation for CAHR
 
 
+We will update the code after the paper is officially accepted
 
 ## Requirements
 * Ubuntu 18.04.5 LTS
