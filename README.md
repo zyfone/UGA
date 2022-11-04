@@ -15,7 +15,7 @@ We will update the code after the paper is officially accepted
 
 
 
-Remember to compile the cuda dependencies using following simple commands following [Faster R-CNN](https://github.com/jwyang/faster-rcnn.pytorch/tree/pytorch-1.0):
+Compile the cuda dependencies using following simple commands following [Faster R-CNN](https://github.com/jwyang/faster-rcnn.pytorch/tree/pytorch-1.0):
 ```bash
 cd lib
 python setup.py build develop
