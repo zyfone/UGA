@@ -37,3 +37,10 @@ Our project references the codes in the following repos:
 
 
 * Zhao _et al_.,[TIA](https://github.com/MCG-NJU/TIA/)
+
+other code :
+* https://github.com/tiancity-NJU/da-faster-rcnn-PyTorch
+* https://github.com/chaoqichen/HTCN
+* https://github.com/Megvii-Nanjing/CR-DA-DET
+* https://github.com/thuml/Transfer-Learning-Library/tree/dev-tllib/examples/domain_adaptation/object_detection
+* https://github.com/dliu5812/DDF
