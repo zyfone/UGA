@@ -7,7 +7,7 @@ We will update the code after the paper is officially accepted
 ## Requirements
 * Ubuntu 18.04.5 LTS
 * Python 3.6
-* [CUDA 9.0](https://developer.nvidia.com/cuda-toolkit)
+* [CUDA 10.0](https://developer.nvidia.com/cuda-toolkit)
 * [PyTorch 1.0.0](https://pytorch.org)
 * [Faster R-CNN](https://github.com/jwyang/faster-rcnn.pytorch/tree/pytorch-1.0)
 
