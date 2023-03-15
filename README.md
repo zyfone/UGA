@@ -36,10 +36,12 @@ python setup.py build develop
 ## :pencil:Related repos
 Our project references the codes in the following repos:
 
+* Megvii-Nanjing,[CR-DA-DET](https://github.com/Megvii-Nanjing/CR-DA-DET)
 
-* Zhao _et al_.,[TIA](https://github.com/MCG-NJU/TIA/)
 
 other code :
 * https://github.com/tiancity-NJU/da-faster-rcnn-PyTorch
-* https://github.com/Megvii-Nanjing/CR-DA-DET
+* https://github.com/ChenJinBIT/SIR
+* https://github.com/MCG-NJU/TIA/
+* https://github.com/harsh-99/SCL
 
