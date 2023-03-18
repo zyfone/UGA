@@ -24,7 +24,7 @@ python setup.py build develop
 ```
 
 
-** Note that we find that our code is not stable due to adversarial training **
+**Note that we find that our code is not stable due to adversarial training,require multiple training attempts to achieve desired results**
 
 
 
