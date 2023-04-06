@@ -50,7 +50,6 @@ Our project references the codes in the following repos:
 
 other code :
 * https://github.com/tiancity-NJU/da-faster-rcnn-PyTorch
-* https://github.com/ChenJinBIT/SIR
 * https://github.com/MCG-NJU/TIA/
 * https://github.com/harsh-99/SCL
 
