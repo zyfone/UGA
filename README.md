@@ -19,6 +19,9 @@ We will update the code after the paper is officially accepted
 
 
 ## dataset download
+
+We also provide the download URL of the dataset in the future
+
  [FLIR](https://github.com/AmineMarnissi/UDAT)
  
  [Cityscape and Foggy Cityscape](https://github.com/tiancity-NJU/da-faster-rcnn-PyTorch)
