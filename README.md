@@ -4,13 +4,14 @@ Code implementation for CCDA
 
 
 ---
-submitting to the chinaMM conference
+submitting to the chinaMM conference，we will update the code after the paper is officially accepted
 
 
 We have been able to obtain improved performance over the reported results in the paper by adjusting some parameters
+For fairness, we will also publish the code details of our comparison method via URL
 
 
-We will update the code after the paper is officially accepted
+
 
 ## Requirements
 * Ubuntu 18.04.5 LTS
