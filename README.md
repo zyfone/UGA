@@ -7,6 +7,8 @@ Code implementation for CCDA
 submitting to the chinaMM conference
 
 
+We have been able to obtain improved performance over the reported results in the paper by adjusting some parameters
+
 
 We will update the code after the paper is officially accepted
 
