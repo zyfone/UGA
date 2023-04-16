@@ -7,7 +7,8 @@ Code implementation for CCDA
 submitting to the chinaMM2023 conference，we will update the code after the paper is officially accepted
 
 
-We have been able to obtain improved performance over the reported results in the paper by adjusting some parameters
+We have been able to obtain improved performance over the reported results in the paper by adjusting some parameters.
+
 For fairness, we will also publish the code details of our comparison method via URL
 
 
