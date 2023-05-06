@@ -26,9 +26,10 @@ For fairness, we will also publish the code details of our comparison method via
 
 We also provide the download URL of the dataset in the future
 
- [FLIR](https://github.com/AmineMarnissi/UDAT)
- 
- [Cityscape and Foggy Cityscape](https://github.com/tiancity-NJU/da-faster-rcnn-PyTorch)
+
+
+
+## Compile the code
 
 Compile the cuda dependencies using following simple commands following [Faster R-CNN](https://github.com/jwyang/faster-rcnn.pytorch/tree/pytorch-1.0):
 ```bash
