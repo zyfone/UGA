@@ -8,8 +8,10 @@ submitting to the chinaMM2023 conference，we will update the code after the pap
 
 
 We have been able to obtain improved performance over the reported results in the paper by adjusting some parameters.
-about 1.5% gain in one-one map benchmark
-In addition,new version code can get 5% performance in VOC TO FLIR benchmark 
+
+1. about 1.5% gain in one-one map benchmark
+
+2. In addition,new version code can get 5% performance in VOC TO FLIR benchmark 
 
 For fairness, we will also publish the code details of our comparison method via URL
 
