@@ -11,7 +11,9 @@ We have been able to obtain improved performance over the reported results in th
 
 1. about 1.5% gain in one-one map benchmark
 
-2. In addition,new version code can get 5% performance in VOC TO FLIR benchmark 
+2. 5% performance in VOC TO FLIR benchmark 
+
+In addition,new version code can get desired results in RGB->RGB benchmark
 
 For fairness, we will also publish the code details of our comparison method via URL
 
