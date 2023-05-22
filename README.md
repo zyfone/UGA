@@ -7,6 +7,8 @@ Code implementation for CCDA
 submitting to the chinaMM2023 conference，we will update the code after the paper is officially accepted
 
 
+**we also verify some tricks how to influence performance**
+
 We have been able to obtain improved performance over the reported results in the paper by adjusting some parameters.
 
 1. about 1.5% gain in one-one map benchmark
