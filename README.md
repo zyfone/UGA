@@ -4,25 +4,17 @@ Code implementation for CCDA
 
 
 ---
-submitting to the chinaMM2023 conference，we will update the code after the paper is officially accepted
+submitting to the chinaMM2023 conference，we will update the code after the paper is officially accepted 
 
-For RTX30 GPU,we provide code in other branch 
+For RTX30 GPU, according code in new branch 
 
 
-**we also verify some tricks how to influence performance**
-
-We have been able to obtain improved performance over the reported results in the paper by adjusting some parameters.
+Obtaining improved performance overcomes the reported results in the paper by adjusting some parameters.
 
 1. about 1.5% gain in one-one map benchmark
 
 2. 5% performance in VOC TO FLIR benchmark 
 
-In addition,new version code can get desired results in RGB->RGB benchmark
-
-For fairness, we will also publish the code details of our comparison method via URL
-
-
-We provide baseline code for following this works
 
 
 ## Requirements
@@ -64,7 +56,7 @@ python setup.py build develop
 ## :pencil:Related repos
 Our project references the codes in the following repos:
 
-* Megvii-Nanjing,[CR-DA-DET](https://github.com/Megvii-Nanjing/CR-DA-DET)
+* Megvii-Nanjing, [CR-DA-DET](https://github.com/Megvii-Nanjing/CR-DA-DET)
 
 
 other code :
