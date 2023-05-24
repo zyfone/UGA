@@ -6,6 +6,8 @@ Code implementation for CCDA
 ---
 submitting to the chinaMM2023 conference，we will update the code after the paper is officially accepted
 
+For RTX30 GPU,we provide code in other branch 
+
 
 **we also verify some tricks how to influence performance**
 
