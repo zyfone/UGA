@@ -4,7 +4,7 @@ Code implementation for CCDA
 
 
 ---
-submitting to the chinaMM2023 conference，we will update the code after the paper is officially accepted 
+submitting to the XXXX，we will update the code after the paper is officially accepted 
 
 For RTX30 GPU, according code in new branch 
 
