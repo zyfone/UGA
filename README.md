@@ -8,7 +8,7 @@ Code implementation for CCDA
 ---
 submitting to the XXXX，we will update the code after the paper is officially accepted 
 
-For RTX30 GPU, according code in new branch 
+For RTX30 GPU, this code repository is not suitable. 
 
 
 Obtaining improved performance overcomes the reported results in the paper by adjusting some parameters.
