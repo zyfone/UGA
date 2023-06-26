@@ -55,7 +55,7 @@ python setup.py build develop
 
 
 It is worth noting that the input size is (800, 800), and the input size of the related comparison method has been changed.
-
+We will release the related logs, in the future. 
 
 
 ## :pencil:Related repos
