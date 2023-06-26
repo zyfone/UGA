@@ -68,6 +68,7 @@ other code :
 * https://github.com/tiancity-NJU/da-faster-rcnn-PyTorch
 * https://github.com/MCG-NJU/TIA/
 * https://github.com/harsh-99/SCL
+* https://github.com/AmineMarnissi/UDAT
 
 
 
