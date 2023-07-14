@@ -6,7 +6,6 @@ Code implementation for CCDA
 ![STARS](https://img.shields.io/github/stars/zyfone/UEA)
 
 ---
-submitting to the XXXX，we will update the code after the paper is officially accepted 
 
 
 
