@@ -45,7 +45,8 @@ python setup.py build develop
 
 * **ResNet101:** [Dropbox](https://www.dropbox.com/s/iev3tkbz5wyyuz9/resnet101_caffe.pth?dl=0)  [VT Server](https://filebox.ece.vt.edu/~jw2yang/faster-rcnn/pretrained-base-models/resnet101_caffe.pth)
 
-tricks：
+Tricks：
+
 It is worth noting that the input size is (800, 800)(following UDAT) in a visible-to-thermal benchmark, and the input size of the related comparison method has been changed.
 We will release the related logs, in the future. In the visible-to-visible benchmark, the input size is (600, 600) (following TIA).
 
