@@ -8,7 +8,7 @@ Code implementation for CCDA
 ---
 
 
-
+Note that we find that our code is not stable due to adversarial training,require multiple testing attempts to achieve desired results [Please test the weights of 6, 7.]
 
 
 ## Requirements
