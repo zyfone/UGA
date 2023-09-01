@@ -1,5 +1,5 @@
-# Unsupervised Domain Adaptive Object Detection for CCDA(Title to be updated)
-Code implementation for CCDA
+# UGA(Title to be updated)
+Code implementation for UGA
 
 ![LAST COMMIT](https://img.shields.io/github/last-commit/zyfone/UEA) 
 ![ISSUES](https://img.shields.io/github/issues/zyfone/UEA)
