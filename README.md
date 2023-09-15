@@ -12,7 +12,7 @@ Other field application：
 
 [Supervised branch]() **Generalization of Modules in Fully Supervised Scenarios**
 
-[RTX30-40 branch]() **Support for More GPUS**
+[UGA PLUS]() **More Tricks and More Performance**
 
 
 
