@@ -10,9 +10,6 @@ Other field application：
 
 [Cityscape-to-Foggycityscape branch](https://github.com/zyfone/UGA/tree/visible-to-visible) **Best Performance Besides Unbiased Teachers**
 
-[Supervised branch]() **Generalization of Modules in Fully Supervised Scenarios**
-
-[UGA PLUS]() **More Tricks and More Performance**
 
 
 
