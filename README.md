@@ -8,10 +8,9 @@ Code implementation for UGA
 ---
 Other field application：
 
-[Cityscape-to-Foggycityscape branch](https://github.com/zyfone/UGA/tree/visible-to-visible) **Best Performance Besides Unbiased Teachers**
+[Cityscape-to-Foggycityscape branch](https://github.com/zyfone/UGA/tree/visible-to-visible) 
 
-
-
+We are surprised that the CSA module seamlessly integrates into other tasks for significant gain by minor modifying.
 
 ## Requirements
 * Ubuntu 18.04.5 LTS
@@ -36,15 +35,23 @@ cd lib
 python setup.py build develop
 ```
 
-
-**Note that we find that our code is not stable due to adversarial training,require multiple testing attempts to achieve desired results**
-
-
-
 ## Pre-trained Models
 
 
 * **ResNet101:** [Dropbox](https://www.dropbox.com/s/iev3tkbz5wyyuz9/resnet101_caffe.pth?dl=0)  [VT Server](https://filebox.ece.vt.edu/~jw2yang/faster-rcnn/pretrained-base-models/resnet101_caffe.pth)
+
+## Training and Test
+
+Train the model
+
+```bash
+sh ./train_scripts/train_flir.sh
+```
+
+Test the well-trained model:
+```bash
+python test_scripts/test_flir.py
+```
 
 
 
