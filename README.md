@@ -11,7 +11,7 @@ Other field application：
 
 [Cityscape-to-Foggycityscape branch](https://github.com/zyfone/UGA/tree/visible-to-visible) 
 
-We are surprised that the CSA module seamlessly integrates into other tasks for significant gain by minor modifying.
+
 
 ## Requirements
 * Ubuntu 18.04.5 LTS
