@@ -5,6 +5,8 @@ Code implementation for UGA
 ![ISSUES](https://img.shields.io/github/issues/zyfone/UEA)
 ![STARS](https://img.shields.io/github/stars/zyfone/UEA)
 
+Our code has strong reproducibility, and the performance of the code is slightly higher than the reported performance.
+
 ---
 Other field application：
 
