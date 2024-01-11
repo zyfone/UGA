@@ -9,7 +9,7 @@ Code implementation for UGA
 ---
 Other field application：
 
-[Cityscape-to-Foggycityscape branch](https://github.com/zyfone/UGA/tree/visible-to-visible) 
+[Cityscape-to-Foggycityscape branch](https://github.com/zyfone/UGA/tree/visible-to-visible) Performance is slightly higher than reported results.
 
 
 
