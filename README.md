@@ -1,4 +1,4 @@
-# UGA(Title to be updated)
+# Domain Adaptive Thermal Object Detection with Unbiased Granularity Alignment
 Code implementation for UGA
 
 ![LAST COMMIT](https://img.shields.io/github/last-commit/zyfone/UEA) 
