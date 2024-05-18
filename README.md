@@ -7,7 +7,7 @@ Code implementation for UGA
 
 
 <div align=center>
-  <img src="github_pic/framework.jpg" alt="Framework" width="400"/>
+  <img src="github_pic/framework.jpg" alt="Framework" width="650"/>
 </div>
 
 
