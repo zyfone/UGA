@@ -6,6 +6,11 @@ Code implementation for UGA
 ![STARS](https://img.shields.io/github/stars/zyfone/UEA)
 
 
+<div align=center>
+  <img src="github_pic/framework.jpg" alt="Framework" width="400"/>
+</div>
+
+
 ---
 RGB-to-RGB Benchmark：
 
@@ -56,6 +61,14 @@ Test the well-trained model:
 ```bash
 python test_scripts/test_flir.py
 ```
+
+
+
+## Reproducibility
+Due to the instability of adversarial training, we do not report the best results, with our code you can get better results.
+
+| ![Image 1](github_pic/report.png) | ![Image 2](github_pic/experiment.png) |![Image 3](github_pic/mAP-filr.jpg)|
+|:-----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|
 
 
 
