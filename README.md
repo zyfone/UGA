@@ -7,9 +7,10 @@ Code implementation for UGA
 
 
 ---
-Other field application：
+RGB-to-RGB Benchmark：
 
-[Cityscape-to-Foggycityscape branch](https://github.com/zyfone/UGA/tree/visible-to-visible) Performance is slightly higher than reported results.
+[Cityscape-to-Foggycityscape branch](https://github.com/zyfone/UGA/tree/visible-to-visible) 
+Performance is slightly higher than reported results.
 
 
 
