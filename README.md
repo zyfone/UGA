@@ -7,7 +7,7 @@ Code implementation for CCDA
 
 ---
 
- ![](https://img.shields.io/badge/Paper_with_code:Ranked_new2-Cityscape_Foggy_Cityscape-blue)
+ ![](https://img.shields.io/badge/Paper_with_code:Rank_1-Cityscape_Foggy_Cityscape-blue)
 
 
 Note that we find that our code is not stable due to adversarial training,require multiple testing attempts to achieve desired results. 
