@@ -89,3 +89,16 @@ other code :
 
 
 if you have any questions , please contact me at 478756030@qq.com
+
+
+
+
+```BibTeX
+@article{10.1145/3665892,
+author = {Shi, Caijuan and Zheng, Yuanfan and Chen, Zhen},
+title = {Domain Adaptive Thermal Object Detection with Unbiased Granularity Alignment},
+year = {2024},
+doi = {10.1145/3665892},
+journal = {ACM Trans. Multimedia Comput. Commun. Appl.},
+}
+```
