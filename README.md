@@ -19,11 +19,7 @@
 
 Performance is slightly higher than reported results.
 
-### PLUS Benchmark：
 
-[PLUS branch](https://github.com/zyfone/UGA/tree/reinforcement-learning) 
-
-Refining instance features through reinforcement learning
 
 ## Requirements
 * Ubuntu 18.04.5 LTS
