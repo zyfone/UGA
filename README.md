@@ -1,5 +1,4 @@
-# Unsupervised Domain Adaptive Object Detection for CCDA(Title to be updated)
-Code implementation for CCDA
+# Domain Adaptive Thermal Object Detection with Unbiased Granularity Alignment
 
 ![LAST COMMIT](https://img.shields.io/github/last-commit/zyfone/UEA)
 ![ISSUES](https://img.shields.io/github/issues/zyfone/UEA)
@@ -7,12 +6,7 @@ Code implementation for CCDA
 
 ---
 
- ![](https://img.shields.io/badge/Paper_with_code:Rank_1-Cityscape_Foggy_Cityscape-blue)
-
-
-Note that we find that our code is not stable due to adversarial training,require multiple testing attempts to achieve desired results. 
-
-[Please test the weights of 6 and 7]
+ ![](https://img.shields.io/badge/Paper_with_code:Rank_1-Cityscape_Foggy_Cityscape-blue) Adversarial training-based approach
 
 
 ## Requirements
@@ -25,7 +19,9 @@ Note that we find that our code is not stable due to adversarial training,requir
 
 ## dataset download
 
-We also provide the download URL of the dataset in the future
+We also provide the download URL of the dataset in the future.
+
+[Cityscape Dataste Download](https://github.com/tiancity-NJU/da-faster-rcnn-PyTorch)
 
 
 
@@ -39,14 +35,25 @@ python setup.py build develop
 ```
 
 
-**Note that we find that our code is not stable due to adversarial training,require multiple testing attempts to achieve desired results**
+
+## Training  and Testing scripts
+
+Run the following command directly to train:
+```bash
+sh train_city.sh
+```
+Run the following command directly to test:
+
+```
+python test_city.py
+```
 
 
 
 ## Pre-trained Models
 
 
-* **VGG:**
+* **VGG16:** [Dropbox](https://www.dropbox.com/s/s3brpk0bdq60nyb/vgg16_caffe.pth?dl=0)  [VT Server](https://filebox.ece.vt.edu/~jw2yang/faster-rcnn/pretrained-base-models/vgg16_caffe.pth)
 
 
 ## :pencil:Related repos
