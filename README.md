@@ -6,7 +6,7 @@
 
 
 <div align=center>
-  <img src="github_pic/framework.jpg" alt="Framework" width="650"/>
+  <img src="github_pic/framework.jpg" alt="Framework" width="450"/>
 </div>
 
 
