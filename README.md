@@ -1,7 +1,5 @@
 # Domain Adaptive Thermal Object Detection with Unbiased Granularity Alignment
 
-**We are cleaning up the code, please stay patient.**
-
 ![LAST COMMIT](https://img.shields.io/github/last-commit/zyfone/UEA) 
 ![ISSUES](https://img.shields.io/github/issues/zyfone/UEA)
 ![STARS](https://img.shields.io/github/stars/zyfone/UEA)
