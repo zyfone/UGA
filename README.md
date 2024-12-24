@@ -1,6 +1,5 @@
 # Domain Adaptive Thermal Object Detection with Unbiased Granularity Alignment
 
-*We did not report the best results in the paper due to the inherent instability of adversarial training. However, it is worth noting that the experimental outcomes from our code significantly exceed those mentioned in the paper.*
 
 ![LAST COMMIT](https://img.shields.io/github/last-commit/zyfone/UEA) 
 ![ISSUES](https://img.shields.io/github/issues/zyfone/UEA)
