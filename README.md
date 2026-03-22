@@ -65,14 +65,13 @@ python test_scripts/test_flir.py
 ## :pencil:Related repos
 Our project references the codes in the following repos:
 
-* Megvii-Nanjing, [CR-DA-DET](https://github.com/Megvii-Nanjing/CR-DA-DET)
-
+* [DAFormer](https://github.com/lhoyer/DAFormer))
 
 other code :
-* https://github.com/tiancity-NJU/da-faster-rcnn-PyTorch
-* https://github.com/MCG-NJU/TIA/
-* https://github.com/harsh-99/SCL
-* https://github.com/AmineMarnissi/UDAT
+* https://github.com/KU-VGI/BUS
+* https://github.com/InSAI-Lab/Trans4PASS
+* https://github.com/RUCAIBox/EulerFormer
+* https://github.com/CityU-AIM-Group/SIGMA
 
 
 
